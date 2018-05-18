@@ -1,0 +1,10 @@
+# GeoScience DeVL
+
+The 2017-2018 Geoscience DEVL project aims to create the foundations for the AuScope 5 year plan for a Virtual Research Environment (AVRE) to better coordinate existing Australian geoscience eResearch infrastructures that have been built over the last decade in data, tools and Virtual Laboratories (VLs) through funding from AuScope, NeCTAR, ANDS, RDS, CSIRO, GA and several other sources. New components to be added to AVRE in the 2017-2018 DEVL project are:
+1. The capability to store time series geophysical datasets with a focus on magnetotellurics (MT) data from the University of Adelaide, but a trial on passive seismic (PS) data from the ANU Research School of Earth Sciences (RSES) will be commenced;
+2. VGL access to approximately 3000 individual geophysical survey datasets (gravity, magnetics, radiometrics) that were published in 2017 at NCI through the RDS 1.9b Geophysics Data Services Project;
+3. Research Data Australia (RDA) and Scientific Software Solution Centre (SSSC) support for tools and workflows to process these additional data types;
+4. A central landing page that connects all virtual components of AuScope and relevant Australian geoscience infrastructures; and
+5. An ANDS   National IGSN service for the allocation of unique identifiers for physical samples used in academic AuScope geochemical data analysis.
+
+
